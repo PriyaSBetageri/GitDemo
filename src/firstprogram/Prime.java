@@ -17,5 +17,8 @@ char ch='a';
 System.out.println("The character a has appeared "+count+" number of times in the string");
 System.out.println("This is new code added by GitDemo");
 System.out.println("This is new code added by gitStuff");
+System.out.println("This is new code added by gitdemo develop branch1");
+System.out.println("This is new code added by gitdemo develop branch1 again");
+System.out.println("This is new code added by gitdemo develop branch1 yet again");
 }
 
