@@ -15,5 +15,6 @@ char ch='a';
 	}
 	}
 System.out.println("The character a has appeared "+count+" number of times in the string");
+System.out.println("This is new code added by GitDemo");
 }
 
